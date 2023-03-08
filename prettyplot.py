@@ -1,5 +1,4 @@
 import seaborn as sns
-import matplotlib.pyplot as plt
 
 def pretty_plot():
     CB91_Blue = '#2CBDFE'
